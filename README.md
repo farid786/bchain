@@ -19,13 +19,13 @@
 
 Angular application that allows you to interact with a blockchain. You can see the blocks on chain, see transaction within them and even create new transactions and mine blocks.
 
-Built on top of [SavjeeCoin](https://github.com/Savjee/SavjeeCoin) (simply Blockchain implementation in Javascript).
+Built on top of [bchain](https://github.com/Savjee/SavjeeCoin) (simply Blockchain implementation in Javascript).
 
 ## 👀 Live demo
 **[Check it out here.](https://farid786.github.io/bchain/)** You can create transactions, mine blocks and explore your own blockchain.
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
-Get a copy of the SavjeeCoin front-end running on your local machine (for playing around, testing or development).
+Get a copy of the bchain running on your local machine (for playing around, testing or development).
 
 ```
 git clone https://github.com/farid786/bchain.git
@@ -33,7 +33,7 @@ git clone https://github.com/farid786/bchain.git
 
 Install the dependencies:
 ```
-cd savjeecoin-frontend
+cd bchain
 npm install
 ```
 
