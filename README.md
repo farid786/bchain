@@ -7,7 +7,7 @@
 
 <div align="center">
 
-  [![Build Status](https://travis-ci.org/Savjee/savjeecoin-frontend.svg?branch=master)](https://travis-ci.org/farid786/bchain)
+  [![Build Status](https://travis-ci.org/bchain.svg?branch=master)](https://travis-ci.org/farid786/bchain)
   [![GitHub Issues](https://img.shields.io/github/issues/farid786/bchain.svg)](https://github.com/farid786/bearclaw/issues)
   [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/farid786/bchain.svg)](https://github.com/farid786/bearclaw/pulls)
   [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
