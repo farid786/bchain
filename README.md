@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img width=450px height=200px src="https://farid786.github.io/bchain/assets/img/github-project-logo.png" alt="Project logo"></a>
+ <img width=450px height=200px src="https://github.com/farid786/bchain/blob/master/src/assets/img/github-project-logo.png" alt="Project logo"></a>
 </p>
 
 <h3 align="center">Blockchain Demo</h3>
